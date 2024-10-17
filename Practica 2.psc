@@ -1,0 +1,11 @@
+Algoritmo sin_titulo
+	DEFINIR A, B COMO ENTERO;
+	DEFINIR RES COMO REAL;
+	ESCRIBIR "ES VALOR DE A";
+	LEER A;
+	
+	ESCRIBIR " EL VALOR DE B";
+	LEER B;
+	RES=(A+B)^2;
+	ESCRIBIR RES;
+FinAlgoritmo
